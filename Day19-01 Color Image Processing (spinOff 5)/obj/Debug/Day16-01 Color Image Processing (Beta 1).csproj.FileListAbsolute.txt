@@ -1,0 +1,40 @@
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day16-01 Color Image Processing (Beta 1)\bin\Debug\Day16-01 Color Image Processing (Beta 1).exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day16-01 Color Image Processing (Beta 1)\bin\Debug\Day16-01 Color Image Processing (Beta 1).pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day16-01 Color Image Processing (Beta 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day16-01 Color Image Processing (Beta 1)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Form1.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day16-01 Color Image Processing (Beta 1)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Properties.Resources.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day16-01 Color Image Processing (Beta 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.GenerateResource.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day16-01 Color Image Processing (Beta 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day16-01 Color Image Processing (Beta 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day16-01 Color Image Processing (Beta 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day16-01 Color Image Processing (Beta 1)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Input1Form.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day17-01 Color Image Processing (RC 1)\bin\Debug\Day16-01 Color Image Processing (Beta 1).exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day17-01 Color Image Processing (RC 1)\bin\Debug\Day16-01 Color Image Processing (Beta 1).pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day17-01 Color Image Processing (RC 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day17-01 Color Image Processing (RC 1)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Form1.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day17-01 Color Image Processing (RC 1)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Input1Form.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day17-01 Color Image Processing (RC 1)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Properties.Resources.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day17-01 Color Image Processing (RC 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.GenerateResource.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day17-01 Color Image Processing (RC 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day17-01 Color Image Processing (RC 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day17-01 Color Image Processing (RC 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day18-01 Color Image Processing (spinOff 1)\bin\Debug\Day16-01 Color Image Processing (Beta 1).exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day18-01 Color Image Processing (spinOff 1)\bin\Debug\Day16-01 Color Image Processing (Beta 1).pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day18-01 Color Image Processing (spinOff 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day18-01 Color Image Processing (spinOff 1)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Form1.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day18-01 Color Image Processing (spinOff 1)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Input1Form.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day18-01 Color Image Processing (spinOff 1)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Properties.Resources.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day18-01 Color Image Processing (spinOff 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.GenerateResource.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day18-01 Color Image Processing (spinOff 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day18-01 Color Image Processing (spinOff 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day18-01 Color Image Processing (spinOff 1)\obj\Debug\Day16-01 Color Image Processing (Beta 1).pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day19-01 Color Image Processing (spinOff 5)\bin\Debug\Day16-01 Color Image Processing (Beta 1).exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day19-01 Color Image Processing (spinOff 5)\bin\Debug\Day16-01 Color Image Processing (Beta 1).pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day19-01 Color Image Processing (spinOff 5)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day19-01 Color Image Processing (spinOff 5)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Form1.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day19-01 Color Image Processing (spinOff 5)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Input1Form.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day19-01 Color Image Processing (spinOff 5)\obj\Debug\Day16_01_Color_Image_Processing__Beta_1_.Properties.Resources.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day19-01 Color Image Processing (spinOff 5)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.GenerateResource.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day19-01 Color Image Processing (spinOff 5)\obj\Debug\Day16-01 Color Image Processing (Beta 1).csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day19-01 Color Image Processing (spinOff 5)\obj\Debug\Day16-01 Color Image Processing (Beta 1).exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day19-01 Color Image Processing (spinOff 5)\obj\Debug\Day16-01 Color Image Processing (Beta 1).pdb
